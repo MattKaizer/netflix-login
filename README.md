@@ -1,6 +1,6 @@
 # Netflix Login Page
 
-[Link to github pages ]()
+[Link to github pages ](https://mattkaizer.github.io/netflix-login/)
 
 ### Just emulating Netflix Login page for fun
 
@@ -23,8 +23,10 @@ This example has no functionality but just practice something by doing.
 From netflix page
 
 #### Instructions
+Open terminal, copy and paste the following instructions one by one:
+
 ~~~
-git clone 
+git clone https://github.com/MattKaizer/netflix-login.git
 cd netflix_inicio
 npm i
 npm run gulp
