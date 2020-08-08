@@ -1,0 +1,29 @@
+{
+  "name": "netflix_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto Netflix login con flexbox, gulp y sass",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": "node ./node_modules/gulp/bin/gulp.js default"
+  },
+  "author": "Matías Benjamín Moreno Juárez",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.7.0",
+    "browser-sync": "^2.26.12",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-plumber": "1.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "1.2.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "dependencies": {
+    "gulp-filter": "^6.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-uglifyes": "^0.2.1"
+  }
+}
